@@ -8,7 +8,7 @@ import axios from 'axios';
 import Login from "./views/Login";
 import Logout from "./views/Logout";
 import Register from "./views/Register";
-import Footer from "./components/Footer"
+// import Footer from "./components/Footer"
 import Home from "./views/Home";
 import CreateCats from "./views/CreateCats";
 import ManageCats from "./views/ManageCats";
@@ -22,7 +22,7 @@ import EditBudget from "./views/EditBudget";
 import ManageBudget from "./views/ManageBudget";
 import IncomeChart from './components/IncomeChart';
 import ExpenseChart from './components/ExpenseChart';
-import ExpenseChartHome from './components/ExpenseChartHome';
+// import ExpenseChartHome from './components/ExpenseChartHome';
 import ProtectedRoute from "./components/ProtectedRoute"
 
 export default class App extends Component {
